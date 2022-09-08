@@ -1,7 +1,7 @@
-﻿Type,Curb Mass (kg),Drag Coefficient (C_d),Frontal Surface Area (m2),,Displacement (cc)
-Saloon,1500,0.31,2.26,,2000
-Sports,1500,0.34,1.8593,,3000
-Light Van,2000,0.425,3.23,,3000
-Bus,12000,0.6,8.258,,5000
-Articulated truck,13000,0.675,8.5,,5300
-Rigid Truck,13000,0.8,9.06,,5700
+﻿Type,Curb Mass (kg),Drag Coefficient (C_d),Frontal Surface Area (m2),Displacement (cc)
+Saloon,1500,0.31,2.26,2000
+Sports,1500,0.34,1.8593,3000
+Light Van,2000,0.425,3.23,3000
+Bus,12000,0.6,8.258,5000
+Articulated truck,13000,0.675,8.5,5300
+Rigid Truck,13000,0.8,9.06,5700
