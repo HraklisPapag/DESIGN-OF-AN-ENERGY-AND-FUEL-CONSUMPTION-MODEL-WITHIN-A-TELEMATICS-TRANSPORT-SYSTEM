@@ -1,0 +1,8 @@
+﻿Make,Model,Curb Mass (kg),Drag Coefficient (C_d),Frontal Surface Area (m2),RPM at Max Torque (rpm),Displacement (cc),Fuel Type
+VW,Golf GTI,1644.272,0.355,1.91,2000,1798,Petrol
+Toyota,HiAce,1800,0.36,3.591,2000,2494,Diesel
+Honda,Accord,1635,0.32,2.147,4500,3471,Petrol
+Honda,Civic 1.2,1530.874,0.38,1.72,4250,1799,Petrol
+Audi,A3,1644.272,0.31,2.08,2000,1395,Petrol
+Toyota,Carolla,1530.874,0.29,2.09,6750,1794,Petrol
+Nissan,Leaf,1600,0.28,2.3,-1,-1,Electric
